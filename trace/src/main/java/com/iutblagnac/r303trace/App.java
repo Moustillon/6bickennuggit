@@ -4,7 +4,7 @@ package com.iutblagnac.r303trace;
  * Hello world!
  *
  */
-public class App {
+public class App { //print HelloWorld avant pr test
 
     public static void main(String[] args) {
         System.out.println(hello());
